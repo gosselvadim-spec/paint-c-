@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\tipic\22LAB\bin\Debug\net10.0-windows\22LAB.exe
+C:\Users\Admin\Desktop\tipic\22LAB\bin\Debug\net10.0-windows\22LAB.deps.json
+C:\Users\Admin\Desktop\tipic\22LAB\bin\Debug\net10.0-windows\22LAB.runtimeconfig.json
+C:\Users\Admin\Desktop\tipic\22LAB\bin\Debug\net10.0-windows\22LAB.dll
+C:\Users\Admin\Desktop\tipic\22LAB\bin\Debug\net10.0-windows\22LAB.pdb
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\_22LAB.Form1.resources
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\22LAB.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\22LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\22LAB.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\22LAB.AssemblyInfo.cs
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\22LAB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\22LAB.sourcelink.json
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\22LAB.dll
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\refint\22LAB.dll
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\22LAB.pdb
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\22LAB.genruntimeconfig.cache
+C:\Users\Admin\Desktop\tipic\22LAB\obj\Debug\net10.0-windows\ref\22LAB.dll
