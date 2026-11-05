@@ -32,13 +32,13 @@
             Save = new Button();
             Clear = new Button();
             flowLayoutPanel1 = new FlowLayoutPanel();
-            button3 = new Button();
-            button4 = new Button();
-            button5 = new Button();
-            button6 = new Button();
-            button7 = new Button();
-            button8 = new Button();
-            button9 = new Button();
+            white = new Button();
+            red = new Button();
+            green = new Button();
+            yerllow = new Button();
+            blue = new Button();
+            pink = new Button();
+            black = new Button();
             karandash = new RadioButton();
             line = new RadioButton();
             tringle = new RadioButton();
@@ -80,88 +80,88 @@
             // 
             // flowLayoutPanel1
             // 
-            flowLayoutPanel1.Controls.Add(button3);
-            flowLayoutPanel1.Controls.Add(button4);
-            flowLayoutPanel1.Controls.Add(button5);
-            flowLayoutPanel1.Controls.Add(button6);
-            flowLayoutPanel1.Controls.Add(button7);
-            flowLayoutPanel1.Controls.Add(button8);
-            flowLayoutPanel1.Controls.Add(button9);
+            flowLayoutPanel1.Controls.Add(white);
+            flowLayoutPanel1.Controls.Add(red);
+            flowLayoutPanel1.Controls.Add(green);
+            flowLayoutPanel1.Controls.Add(yerllow);
+            flowLayoutPanel1.Controls.Add(blue);
+            flowLayoutPanel1.Controls.Add(pink);
+            flowLayoutPanel1.Controls.Add(black);
             flowLayoutPanel1.Dock = DockStyle.Top;
             flowLayoutPanel1.Location = new Point(618, 0);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
             flowLayoutPanel1.Size = new Size(182, 118);
             flowLayoutPanel1.TabIndex = 3;
             // 
-            // button3
+            // white
             // 
-            button3.BackColor = Color.White;
-            button3.FlatStyle = FlatStyle.Flat;
-            button3.Location = new Point(3, 3);
-            button3.Name = "button3";
-            button3.Size = new Size(30, 30);
-            button3.TabIndex = 0;
-            button3.UseVisualStyleBackColor = false;
+            white.BackColor = Color.White;
+            white.FlatStyle = FlatStyle.Flat;
+            white.Location = new Point(3, 3);
+            white.Name = "white";
+            white.Size = new Size(30, 30);
+            white.TabIndex = 0;
+            white.UseVisualStyleBackColor = false;
             // 
-            // button4
+            // red
             // 
-            button4.BackColor = Color.Red;
-            button4.FlatStyle = FlatStyle.Flat;
-            button4.Location = new Point(39, 3);
-            button4.Name = "button4";
-            button4.Size = new Size(30, 30);
-            button4.TabIndex = 1;
-            button4.UseVisualStyleBackColor = false;
+            red.BackColor = Color.Red;
+            red.FlatStyle = FlatStyle.Flat;
+            red.Location = new Point(39, 3);
+            red.Name = "red";
+            red.Size = new Size(30, 30);
+            red.TabIndex = 1;
+            red.UseVisualStyleBackColor = false;
             // 
-            // button5
+            // green
             // 
-            button5.BackColor = Color.Lime;
-            button5.FlatStyle = FlatStyle.Flat;
-            button5.Location = new Point(75, 3);
-            button5.Name = "button5";
-            button5.Size = new Size(30, 30);
-            button5.TabIndex = 2;
-            button5.UseVisualStyleBackColor = false;
+            green.BackColor = Color.Lime;
+            green.FlatStyle = FlatStyle.Flat;
+            green.Location = new Point(75, 3);
+            green.Name = "green";
+            green.Size = new Size(30, 30);
+            green.TabIndex = 2;
+            green.UseVisualStyleBackColor = false;
             // 
-            // button6
+            // yerllow
             // 
-            button6.BackColor = Color.Yellow;
-            button6.FlatStyle = FlatStyle.Flat;
-            button6.Location = new Point(111, 3);
-            button6.Name = "button6";
-            button6.Size = new Size(30, 30);
-            button6.TabIndex = 3;
-            button6.UseVisualStyleBackColor = false;
+            yerllow.BackColor = Color.Yellow;
+            yerllow.FlatStyle = FlatStyle.Flat;
+            yerllow.Location = new Point(111, 3);
+            yerllow.Name = "yerllow";
+            yerllow.Size = new Size(30, 30);
+            yerllow.TabIndex = 3;
+            yerllow.UseVisualStyleBackColor = false;
             // 
-            // button7
+            // blue
             // 
-            button7.BackColor = Color.FromArgb(0, 0, 192);
-            button7.FlatStyle = FlatStyle.Flat;
-            button7.Location = new Point(147, 3);
-            button7.Name = "button7";
-            button7.Size = new Size(30, 30);
-            button7.TabIndex = 4;
-            button7.UseVisualStyleBackColor = false;
+            blue.BackColor = Color.FromArgb(0, 0, 192);
+            blue.FlatStyle = FlatStyle.Flat;
+            blue.Location = new Point(147, 3);
+            blue.Name = "blue";
+            blue.Size = new Size(30, 30);
+            blue.TabIndex = 4;
+            blue.UseVisualStyleBackColor = false;
             // 
-            // button8
+            // pink
             // 
-            button8.BackColor = Color.FromArgb(192, 0, 192);
-            button8.FlatStyle = FlatStyle.Flat;
-            button8.Location = new Point(3, 39);
-            button8.Name = "button8";
-            button8.Size = new Size(30, 30);
-            button8.TabIndex = 5;
-            button8.UseVisualStyleBackColor = false;
+            pink.BackColor = Color.FromArgb(192, 0, 192);
+            pink.FlatStyle = FlatStyle.Flat;
+            pink.Location = new Point(3, 39);
+            pink.Name = "pink";
+            pink.Size = new Size(30, 30);
+            pink.TabIndex = 5;
+            pink.UseVisualStyleBackColor = false;
             // 
-            // button9
+            // black
             // 
-            button9.BackColor = Color.Black;
-            button9.FlatStyle = FlatStyle.Flat;
-            button9.Location = new Point(39, 39);
-            button9.Name = "button9";
-            button9.Size = new Size(30, 30);
-            button9.TabIndex = 6;
-            button9.UseVisualStyleBackColor = false;
+            black.BackColor = Color.Black;
+            black.FlatStyle = FlatStyle.Flat;
+            black.Location = new Point(39, 39);
+            black.Name = "black";
+            black.Size = new Size(30, 30);
+            black.TabIndex = 6;
+            black.UseVisualStyleBackColor = false;
             // 
             // karandash
             // 
@@ -256,13 +256,13 @@
         private Button Save;
         private Button Clear;
         private FlowLayoutPanel flowLayoutPanel1;
-        private Button button3;
-        private Button button4;
-        private Button button5;
-        private Button button6;
-        private Button button7;
-        private Button button8;
-        private Button button9;
+        private Button white;
+        private Button red;
+        private Button green;
+        private Button yerllow;
+        private Button blue;
+        private Button pink;
+        private Button black;
         private RadioButton karandash;
         private RadioButton line;
         private RadioButton tringle;
