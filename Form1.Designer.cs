@@ -66,8 +66,7 @@
             Save.Size = new Size(164, 29);
             Save.TabIndex = 1;
             Save.Text = "Save";
-            Save.UseVisualStyleBackColor = true;
-            Save.Click += button1_Click;
+            Save.UseVisualStyleBackColor = true;           
             // 
             // Clear
             // 
@@ -184,7 +183,6 @@
             line.TabStop = true;
             line.Text = "line";
             line.UseVisualStyleBackColor = true;
-            line.CheckedChanged += line_CheckedChanged;
             // 
             // tringle
             // 
@@ -223,7 +221,6 @@
             label1.Size = new Size(75, 20);
             label1.TabIndex = 12;
             label1.Text = "Thickness ";
-            label1.Click += label1_Click;
             // 
             // Form1
             // 
@@ -242,7 +239,6 @@
             Controls.Add(karandash);
             Name = "Form1";
             Text = "Form1";
-            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             flowLayoutPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)trackBar1).EndInit();

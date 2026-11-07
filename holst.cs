@@ -9,7 +9,7 @@ namespace _22LAB
         public Bitmap Bitmap { get; private set; } 
         private Graphics graphics;                
         private PictureBox pictureBox;             
-        private bool isDrawing = false;
+        private bool Drawing = false;
         private Point startPoint;
 
         public BaseTool CurrentTool { get; set; }
@@ -29,7 +29,7 @@ namespace _22LAB
         {
             if (CurrentTool != null)
             {
-                isDrawing = true;
+                Drawing = true;
                 startPoint = location;
                 CurrentTool.color = CurrentColor;
                 CurrentTool.Thickness = CurrentThickness;
@@ -38,7 +38,7 @@ namespace _22LAB
 
         public void MouseMove(Point location)
         {
-            if (isDrawing && CurrentTool != null)
+            if (Drawing && CurrentTool != null)
             {
                 if (CurrentTool is Karandash)
                 {
@@ -60,9 +60,9 @@ namespace _22LAB
 
         public void MouseUp(Point location)
         {
-            if (isDrawing && CurrentTool != null)
+            if (Drawing && CurrentTool != null)
             {
-                isDrawing = false;
+                Drawing = false;
                 if (!(CurrentTool is Karandash))
                 {
                     CurrentTool.DrawFinal(graphics, startPoint, location);
