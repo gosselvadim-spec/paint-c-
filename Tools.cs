@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Drawing;
 
+
+
 namespace _22LAB
+
 {
     public abstract class BaseTool
     {
         public Color color { get; set; } = Color.Black;
         public float Thickness { get; set; } = 2f;
-
+        
         public abstract void DrawPreview(Graphics g, Point start, Point end);
         public abstract void DrawFinal(Graphics g, Point start, Point end);
     }

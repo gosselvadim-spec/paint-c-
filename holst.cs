@@ -6,7 +6,7 @@ namespace _22LAB
 {
     public class Holst
     {
-        public Bitmap Bitmap { get; private set; } 
+        public Bitmap Bitmap { get; private set; }    
         private Graphics graphics;                
         private PictureBox pictureBox;             
         private bool Drawing = false;

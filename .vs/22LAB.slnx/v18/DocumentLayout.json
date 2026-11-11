@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|c:\\users\\admin\\desktop\\tipic\\22lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|c:\\users\\admin\\desktop\\tipic\\22lab\\co.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|solutionrelative:co.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|c:\\users\\admin\\desktop\\tipic\\22lab\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|solutionrelative:tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|c:\\users\\admin\\desktop\\tipic\\22lab\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|c:\\users\\admin\\desktop\\tipic\\22lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|c:\\users\\admin\\desktop\\tipic\\22lab\\holst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|solutionrelative:holst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|c:\\users\\admin\\desktop\\tipic\\22lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|c:\\users\\admin\\desktop\\tipic\\22lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|c:\\users\\admin\\desktop\\tipic\\22lab\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4188F19C-F9BF-962D-3F51-B27045010C3C}|22LAB.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "CO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\CO.cs",
+              "RelativeDocumentMoniker": "CO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\CO.cs",
+              "RelativeToolTip": "CO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T05:46:46.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -57,7 +70,7 @@
               "RelativeDocumentMoniker": "holst.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\holst.cs",
               "RelativeToolTip": "holst.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-05T10:44:27.998Z",
               "EditorCaption": ""
@@ -82,32 +95,20 @@
               "RelativeDocumentMoniker": "Tools.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\Tools.cs",
               "RelativeToolTip": "Tools.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T05:35:27.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T05:34:26.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\tipic\\22LAB\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T05:14:40.479Z",
               "EditorCaption": ""

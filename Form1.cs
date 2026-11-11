@@ -39,7 +39,7 @@ namespace _22LAB
             green.Click += (s, e) => canvas.CurrentColor = Color.Lime;
             yerllow.Click += (s, e) => canvas.CurrentColor = Color.Yellow;
             blue.Click += (s, e) => canvas.CurrentColor = Color.Blue;
-            pink.Click += (s, e) => canvas.CurrentColor = Color.FromArgb(192, 0, 192);
+            pink.Click += (s, e) => canvas.CurrentColor = Color.Pink;
             black.Click += (s, e) => canvas.CurrentColor = Color.Black;
         }
     }
